@@ -40,7 +40,7 @@ participants:
     blobber_enabled: false
     blobber_extra_params: []
 network_params:
-  network_id: "3151908"
+  network_id: "1234"
   deposit_contract_address: "0x4242424242424242424242424242424242424242"
   seconds_per_slot: 12
   num_validator_keys_per_node: 64
